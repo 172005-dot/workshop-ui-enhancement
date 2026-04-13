@@ -71,10 +71,10 @@ Managing UI transitions between workshop list and form was challenging. This was
 ## 📸 Visual Showcase
 
 ### Before
-(Add original UI screenshot here)
+The original interface was minimal with a basic layout and limited interaction.
 
 ### After
-![Workshop List](./screenshots/workshops.png)  
+![Workshop List](./screenshots/workshop.png)  
 ![Registration Form](./screenshots/form.png)  
 ![Success Message](./screenshots/success.png)  
 
