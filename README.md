@@ -74,9 +74,9 @@ Managing UI transitions between workshop list and form was challenging. This was
 The original interface was minimal with a basic layout and limited interaction.
 
 ### After
-![Workshop List](./screenshots/workshop.png)  
-![Registration Form](./screenshots/form.png)  
-![Success Message](./screenshots/success.png)  
+![Workshop List](screenshots/workshop.png)
+![Registration Form](screenshots/form.png)
+![Success Message](screenshots/success.png) 
 
 ---
 
